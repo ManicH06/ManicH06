@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 À propos de moi:
 Développeur Full Stack passionné, spécialisé dans la conception et le déploiement de solutions SaaS robustes. <br>Mon approche allie rigueur technique et vision produit pour transformer des idées complexes en interfaces fluides et performantes.<br><br>💡 Fun fact : J'ai installé Arch Linux manuellement à plusieurs reprises. Embauchez-moi!<br>
 
 

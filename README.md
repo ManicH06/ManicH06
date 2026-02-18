@@ -1,5 +1,7 @@
 # 💫 À propos de moi:
-Développeur Full Stack passionné, spécialisé dans la conception et le déploiement de solutions SaaS robustes. <br>Mon approche allie rigueur technique et vision produit pour transformer des idées complexes en interfaces fluides et performantes.<br><br>💡 Fun fact : J'ai installé Arch Linux manuellement à plusieurs reprises. Embauchez-moi!<br>
+Je suis un développeur Full Stack qui aime construire des produits qui ont du sens. Mon truc, c’est de plonger dans l’écosystème pour transformer des idées en applications fluides et performantes.
+
+Je ne me contente pas de coder des interfaces ; j’aime comprendre ce qu'il se passe sous le capot et m’assurer que l’architecture est aussi solide que l’expérience utilisateur.<br><br>💡 Fun fact : J'ai installé Arch Linux manuellement à plusieurs reprises. Embauchez-moi!<br>
 
 
 ## 🌐 Contact:
